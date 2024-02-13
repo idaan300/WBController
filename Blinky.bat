@@ -1,0 +1,3 @@
+set WEBOTS_CONTROLLER_URL=Blinky
+
+RobotController.exe Blinky
